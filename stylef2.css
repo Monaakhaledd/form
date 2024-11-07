@@ -1,0 +1,52 @@
+ fieldset { 
+    color: white;
+    padding: 20px;
+    padding-left:10px;
+
+} 
+label {
+    color: white;
+}
+div {
+    background-color: rgb(5, 63, 86);
+    width: 600px;
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+form {
+    padding-top: 5px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+input {
+    margin: 15px;
+    margin-left: 70px;
+    padding: 5px;
+    border-radius: 10px;
+    border-style: none;
+    width: 200px;
+
+}
+label {
+    margin-left: 50px;
+}
+button {
+    padding: 10px;
+    width: 350px;
+    margin-top: 35px;
+    margin-left: 95px;
+    margin-bottom: 35px;
+    background-color: white;
+    border-style: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:rgb(6, 66, 90) ;
+    color: white;
+
+}
